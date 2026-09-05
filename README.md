@@ -17,3 +17,4 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035 ${\color{#ffdf00}\textsf{(🥇 nominated)}}$</sub>
 
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry from Dandy's World ${\color{#d7d6e5}\textsf{(🥈 nominated)}}$</sub>
+
