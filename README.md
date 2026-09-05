@@ -4,7 +4,7 @@
 
 ---
 
-${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒑𝒐𝒏𝒊𝒆𝒔:}}$
+${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a> ${\color{#ff8223}\textsf{(🥉 nominated)}}$</sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$
