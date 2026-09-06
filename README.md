@@ -3,8 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=16&pause=1000&color=FF4F4F&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+PT+FANtastic+Hall!;You+can+nominate+yourself+%F0%9F%91%80;Nominate+yourself+or+others+through+Strawpage" alt="Typing SVG" /></a>
 
 <details>
-<summary>𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞?</summary> <p align="right"><img width="400" height="280" alt="212283" src="https://github.com/user-attachments/assets/88f67347-8d12-4a79-bf0a-298a3b52bdff"/> </p>
-  𝒀𝒐𝒖 𝒄𝒂𝒏 𝒇𝒊𝒏𝒅 𝒎𝒆 𝒊𝒏 𝑺𝒂𝒇𝒆 𝑺𝒆𝒓𝒗𝒆𝒓 𝟏 𝑫𝒐𝒄𝒌, 𝑩𝒂𝒌𝒆𝒓𝒚 𝒐𝒓 𝑺𝒑𝒂𝒘𝒏 𝒑𝒆𝒓𝒊𝒎𝒆𝒕𝒆𝒓! 𝑴𝒂𝒌𝒆 𝒔𝒖𝒓𝒆 𝒕𝒉𝒆 𝒑𝒐𝒏𝒚 𝒉𝒂𝒗𝒆 𝑮𝒊𝒕𝑯𝒖𝒃 𝒐𝒇 𝒕𝒉𝒊𝒔 𝒂𝒄𝒄𝒐𝒖𝒏𝒕, 𝒂𝒑𝒑𝒂𝒓𝒆𝒏𝒕𝒍𝒚 𝒎𝒚 𝒑𝒐𝒏𝒚 𝒘𝒆𝒓𝒆 𝒍𝒆𝒂𝒌𝒆𝒅 𝒊𝒏 𝑪*𝒑𝒚 𝑻𝒐𝒘𝒏 :((
+<summary>𝐅𝐨𝐫 𝐦𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 </summary> <p align="right"><img width="400" height="280" alt="212283" src="https://github.com/user-attachments/assets/88f67347-8d12-4a79-bf0a-298a3b52bdff"/> </p>
+  <sub>𝒀𝒐𝒖 𝒄𝒂𝒏 𝒇𝒊𝒏𝒅 𝒎𝒆 𝒊𝒏 𝑺𝒂𝒇𝒆 𝑺𝒆𝒓𝒗𝒆𝒓 𝟏 𝑫𝒐𝒄𝒌, 𝑩𝒂𝒌𝒆𝒓𝒚 𝒐𝒓 𝑺𝒑𝒂𝒘𝒏 𝒑𝒆𝒓𝒊𝒎𝒆𝒕𝒆𝒓! 𝑴𝒂𝒌𝒆 𝒔𝒖𝒓𝒆 𝒕𝒉𝒆 𝒑𝒐𝒏𝒚 𝒉𝒂𝒗𝒆 𝑮𝒊𝒕𝑯𝒖𝒃 𝒐𝒇 𝒕𝒉𝒊𝒔 𝒂𝒄𝒄𝒐𝒖𝒏𝒕, 𝒂𝒑𝒑𝒂𝒓𝒆𝒏𝒕𝒍𝒚 𝒎𝒚 𝒑𝒐𝒏𝒚 𝒘𝒆𝒓𝒆 𝒍𝒆𝒂𝒌𝒆𝒅 𝒊𝒏 𝑪*𝒑𝒚 𝑻𝒐𝒘𝒏 :((</sub>
+
+  <sub>𝑷𝒍𝒆𝒂𝒔𝒆 𝒕𝒂𝒌𝒆 𝒏𝒐𝒕𝒆 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒐𝒏𝒍𝒚 𝒄𝒉𝒐𝒐𝒔𝒆 𝒆𝒊𝒕𝒉𝒆𝒓 𝟐 𝒄𝒂𝒕𝒆𝒈𝒐𝒓𝒊𝒆𝒔 𝒐𝒓 𝒐𝒏𝒆 𝒄𝒂𝒕𝒆𝒈𝒐𝒓𝒚 𝒇𝒐𝒓 𝟐 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔! 𝑻𝒉𝒊𝒔 𝒊𝒔 𝒕𝒐 𝒆𝒏𝒔𝒖𝒓𝒆 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆 𝒘𝒊𝒍𝒍 𝒈𝒆𝒕 𝒇𝒂𝒊𝒓𝒍𝒚 𝒄𝒉𝒐𝒔𝒆𝒏 𝒂𝒏𝒅 𝒓𝒆𝒅𝒖𝒄𝒆 𝒔𝒑𝒂𝒎 𝒊𝒏 𝒔𝒕𝒓𝒂𝒘𝒑𝒂𝒈𝒆, 𝒕𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 =)</sub>
 </details>
 
 ---
