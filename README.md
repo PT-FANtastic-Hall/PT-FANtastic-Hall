@@ -35,6 +35,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
+<sub><a href="https://github.com/kikiooru">kikiooru</a> is Pony Town's Kalim al-Asim (Disney Twisted Wonderland)</sub>
+
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
 <sub><a href="https://github.com/pirate-freak">pirate-freak</a> is Pony Town's Jack Sparrow</sub>
