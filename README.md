@@ -4,7 +4,7 @@
 
 ---
 
-${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a> ${\color{#ff8223}\textsf{(🥉 nominated)}}$</sub>
+${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$
@@ -16,11 +16,11 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
 
-<sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick</sub>
+<sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
 
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
-<sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035 ${\color{#ffdf00}\textsf{(🥇 nominated)}}$</sub>
+<sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
-<sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry ${\color{#d7d6e5}\textsf{(🥈 nominated)}}$</sub>
+<sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
 
