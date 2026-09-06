@@ -28,6 +28,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
 
+<sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
+
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
