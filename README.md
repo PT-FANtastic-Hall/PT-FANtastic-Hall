@@ -14,6 +14,8 @@ ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓�
 
 ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝑭𝒂𝒏 or 𝑪𝒐𝒔𝒑𝒍𝒂𝒚}}$ ${\color{#aeaeae}\textsf{[𝑨𝒍𝒑𝒉𝒂𝒃𝒆𝒕𝒊𝒄𝒂𝒍 𝑶𝒓𝒅𝒆𝒓]}}$
 
+<sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
+
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
 
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
