@@ -9,10 +9,11 @@
 
 ---
 
-${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub>
+${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub>
 
 
-${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$
+${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
 
 
 ${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub>
@@ -41,5 +42,7 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
 
 <sub><a href="https://github.com/SweetTenshi">SweetTenshi</a> is Pony Town's Yoisaki Kanade (PJSK)</sub>
+
+<sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
 
 <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a> is Pony Town's Orion Pax (all Transformers media)</sub>
