@@ -26,5 +26,6 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/pirate-freak">pirate-freak</a> is Pony Town's Jack Sparrow</sub>
 
-<sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
+<sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a> is Pony Town's Parrotx2 (Unstable SMP)</sub>
 
+<sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
