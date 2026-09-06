@@ -22,5 +22,7 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
+<sub><a href="https://github.com/pirate-freak">pirate-freak</a> is Pony Town's Jack Sparrow</sub>
+
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
 
