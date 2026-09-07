@@ -29,6 +29,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
 
+<sub><a href="https://github.com/Enveiled">Enveiled</a> is Pony Town's Ghostface (Dead by Daylight)</sub>
+
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
 
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
