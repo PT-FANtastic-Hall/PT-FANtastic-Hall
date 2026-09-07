@@ -25,6 +25,8 @@ ${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.
 
 ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝑭𝒂𝒏 or 𝑪𝒐𝒔𝒑𝒍𝒂𝒚}}$ ${\color{#aeaeae}\textsf{[𝑨𝒍𝒑𝒉𝒂𝒃𝒆𝒕𝒊𝒄𝒂𝒍 𝑶𝒓𝒅𝒆𝒓]}}$
 
+<sub><a href="https://github.com/BlG-SHOT">blg-shot</a> is Pony Town's Spamton (Deltarune)</sub>
+
 <sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
