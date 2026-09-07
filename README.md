@@ -12,7 +12,7 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
@@ -33,11 +33,17 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
 
+<sub><a href="https://github.com/H0RR0RF4RT">H0RR0RF4RT</a> is Pony Town's Martian (Fact Attack Adventures)</sub>
+
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
 <sub><a href="https://github.com/kikiooru">kikiooru</a> is Pony Town's Kalim al-Asim (Disney Twisted Wonderland)</sub>
 
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
+
+<sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a> is Pony Town's Vee version 1</sub>
+
+<sub><a href="https://github.com/PH4NT0MHIVE/PH4NT0MHIVE">PH4NT0MHIVE</a> is Pony Town's Ciel & Idia Shroud</sub>
 
 <sub><a href="https://github.com/pirate-freak">pirate-freak</a> is Pony Town's Jack Sparrow</sub>
 
