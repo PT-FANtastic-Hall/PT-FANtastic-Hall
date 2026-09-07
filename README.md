@@ -12,7 +12,7 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
