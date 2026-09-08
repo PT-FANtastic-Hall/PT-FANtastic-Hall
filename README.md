@@ -12,7 +12,7 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
@@ -30,6 +30,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/BlG-SHOT">blg-shot</a> is Pony Town's Spamton (Deltarune)</sub>
 
 <sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
+
+<sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a> is Pony Town's D3rlord3</sub>
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
 
