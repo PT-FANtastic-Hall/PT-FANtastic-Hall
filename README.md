@@ -12,7 +12,7 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
@@ -39,6 +39,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/Enveiled">Enveiled</a> is Pony Town's Ghostface (Dead by Daylight)</sub>
 
+<sub><a href="https://github.com/eversleeping-town">eversleeping-town</a> is Pony Town's Ada Wong (Resident Evil)</sub>
+
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
 
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
@@ -48,6 +50,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
 <sub><a href="https://github.com/kikiooru">kikiooru</a> is Pony Town's Kalim al-Asim (Disney Twisted Wonderland)</sub>
+
+<sub><a href="https://github.com/KUJOHS">KUJOHS</a> is Pony Town's Jolynecujoh & Rangiku Matsumoto</sub>
 
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
