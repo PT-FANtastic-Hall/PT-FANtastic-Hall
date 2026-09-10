@@ -35,7 +35,9 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a> is Pony Town's D3rlord3</sub>
 
-<sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1</sub>
+<sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1 & Sylas (Something Doesn't Belong Here)</sub>
+
+<sub><a href="https://github.com/Doxdxo">Doxdxo</a> is Pony Town's Saiki Kusuo (Tdlosk)</sub>
 
 <sub><a href="https://github.com/Enveiled">Enveiled</a> is Pony Town's Ghostface (Dead by Daylight)</sub>
 
