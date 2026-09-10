@@ -18,7 +18,7 @@ ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏�
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
 
 
-${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub>
+${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a></sub>
 
 
 ---
@@ -33,21 +33,27 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
 
+<sub><a href="https://github.com/Corintheuss">Corintheuss</a> is Pony Town's Corinthian</sub>
+
 <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a> is Pony Town's D3rlord3</sub>
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1 & Sylas (Something Doesn't Belong Here)</sub>
 
 <sub><a href="https://github.com/Doxdxo">Doxdxo</a> is Pony Town's Saiki Kusuo (Tdlosk)</sub>
 
+<sub><a href="https://github.com/dr-vanta">dr-vanta</a> is Pony Town's Dr Vanta (Loomian Legacy)</sub>
+
 <sub><a href="https://github.com/Enveiled">Enveiled</a> is Pony Town's Ghostface (Dead by Daylight)</sub>
 
 <sub><a href="https://github.com/eversleeping-town">eversleeping-town</a> is Pony Town's Ada Wong (Resident Evil)</sub>
 
-<sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park)</sub>
+<sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park) & Estella Havisham (HellPark)</sub>
 
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
 
 <sub><a href="https://github.com/H0RR0RF4RT">H0RR0RF4RT</a> is Pony Town's Martian (Fact Attack Adventures)</sub>
+
+<sub><a href="https://github.com/ianishuser">ianishuser</a> is Pony Town's Avery</sub>
 
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
@@ -65,6 +71,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a> is Pony Town's Parrotx2 (Unstable SMP)</sub>
 
+<sub><a href="https://github.com/Robiiwithlotsofis">Robiiwithlotsofis</a> is Pony Town's Jeppy (Doctor Nowhere)</sub>
+
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
 
 <sub><a href="https://github.com/SweetTenshi">SweetTenshi</a> is Pony Town's Yoisaki Kanade (PJSK)</sub>
@@ -74,3 +82,5 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
 
 <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a> is Pony Town's Orion Pax (all Transformers media)</sub>
+
+<sub><a href="https://github.com/yellowdeltarune">yellowdeltarune</a> is Pony Town's Yellow</sub>
