@@ -55,6 +55,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/ianishuser">ianishuser</a> is Pony Town's Avery</sub>
 
+<sub><a href="https://github.com/Itrappedfan">Itrappedfan</a> is Pony Town's Froggydude</sub>
+
 <sub><a href="https://github.com/jellybunnybear">jellybunnybear</a> is Pony Town's Dee Vasquez buzz buzz</sub>
 
 <sub><a href="https://github.com/kikiooru">kikiooru</a> is Pony Town's Kalim al-Asim (Disney Twisted Wonderland)</sub>
