@@ -95,7 +95,11 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/sxphyrin">sxphyrin</a> is Pony Town's Riddle Rosehearts (Twisted Wonderland)</sub>
 
+<sub><a href="https://github.com/TheSpoiledRiches">TheSpoiledRiches</a> is Pony Town's Adam Murray (The Mandela Catalogue)</sub>
+
 <sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
+
+<sub><a href="https://github.com/twottimey">twottimey</a> is Pony Town's Two Time</sub>
 
 <sub><a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> is Pony Town's Cole Brookstone (Ninjago)</sub>
 
