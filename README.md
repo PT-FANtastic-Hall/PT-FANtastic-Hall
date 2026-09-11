@@ -15,7 +15,7 @@ ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏�
 <sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub>
 
 
-${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub>
+${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub> , <sub><a href="https://github.com/Mayumixx">Mayumixx</a></sub>
 
 
 ${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a></sub>
@@ -62,6 +62,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/KUJOHS">KUJOHS</a> is Pony Town's Jolynecujoh & Rangiku Matsumoto</sub>
 
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
+
+<sub><a href="https://github.com/Mayumixx">Mayumixx</a> is Pony Town's Tifa Lockhart</sub>
 
 <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a> is Pony Town's Vee version 1</sub>
 
