@@ -31,6 +31,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/bunchoffriends">bunchoffriends</a> is Pony Town's Anthony Po</sub>
 
+<sub><a href="https://github.com/cherryflavoredfoam">cherryflavoredfoam</a> is Pony Town's Lyla (Spider verse)</sub>
+
 <sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
 
 <sub><a href="https://github.com/Corintheuss">Corintheuss</a> is Pony Town's Corinthian</sub>
@@ -65,6 +67,10 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/KUJOHS">KUJOHS</a> is Pony Town's Jolynecujoh & Rangiku Matsumoto</sub>
 
+<sub><a href="https://github.com/kyle-broflovski33">kyle-broflovski33</a> is Pony Town's Kyle Broflovski (South Park)</sub>
+
+<sub><a href="https://github.com/kyostro">kyostro</a> is Pony Town's Bamboo Hatted Kim (Limbus Company)</sub>
+
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
 <sub><a href="https://github.com/Mayumixx">Mayumixx</a> is Pony Town's Tifa Lockhart</sub>
@@ -90,6 +96,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
 
 <sub><a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> is Pony Town's Cole Brookstone (Ninjago)</sub>
+
+<sub><a href="https://github.com/willythesillybilly">willythesillybilly</a> is Pony Town's Clockwork</sub>
 
 <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a> is Pony Town's Orion Pax (all Transformers media)</sub>
 
