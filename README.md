@@ -25,6 +25,8 @@ ${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.
 
 ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝑭𝒂𝒏 or 𝑪𝒐𝒔𝒑𝒍𝒂𝒚}}$ ${\color{#aeaeae}\textsf{[𝑨𝒍𝒑𝒉𝒂𝒃𝒆𝒕𝒊𝒄𝒂𝒍 𝑶𝒓𝒅𝒆𝒓]}}$
 
+<sub><a href="https://github.com/AcxerSonnellino">AcxerSonnellino</a> is Pony Town's Guest 1337 (Forsaken/The Last Guest)</sub>
+
 <sub><a href="https://github.com/Aspenolia">Aspenolia</a> is Pony Town's Azurewrath (Forsaken)</sub>
 
 <sub><a href="https://github.com/BlG-SHOT">blg-shot</a> is Pony Town's Spamton (Deltarune)</sub>
