@@ -49,6 +49,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park) & Estella Havisham (HellPark)</sub>
 
+<sub><a href="https://github.com/Gatita-here">Gatita-here</a> is Pony Town's Grox MC</sub>
+
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
 
 <sub><a href="https://github.com/H0RR0RF4RT">H0RR0RF4RT</a> is Pony Town's Martian (Fact Attack Adventures)</sub>
@@ -73,6 +75,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/pirate-freak">pirate-freak</a> is Pony Town's Jack Sparrow</sub>
 
+<sub><a href="https://github.com/pupfies">pupfies</a> is Pony Town's Wifies</sub>
+
 <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a> is Pony Town's Parrotx2 (Unstable SMP)</sub>
 
 <sub><a href="https://github.com/Robiiwithlotsofis">Robiiwithlotsofis</a> is Pony Town's Jeppy (Doctor Nowhere)</sub>
@@ -84,6 +88,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/sxphyrin">sxphyrin</a> is Pony Town's Riddle Rosehearts (Twisted Wonderland)</sub>
 
 <sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
+
+<sub><a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> is Pony Town's Cole Brookstone (Ninjago)</sub>
 
 <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a> is Pony Town's Orion Pax (all Transformers media)</sub>
 
