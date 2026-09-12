@@ -105,6 +105,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/mirrorgem">mirrorgem</a> is Pony Town's Lottie Matthews</sub>
 
+<sub><a href="https://github.com/nataliescatorccio">nataliescatorccio</a> is Pony Town's Natalie Scatorccio</sub>
+
 <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a> is Pony Town's Vee version 1</sub>
 
 <sub><a href="https://github.com/PH4NT0MHIVE">PH4NT0MHIVE</a> is Pony Town's Ciel & Idia Shroud</sub>
