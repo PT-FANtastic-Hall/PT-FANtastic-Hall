@@ -65,6 +65,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/genderflux">genderflux</a> is Pony Town's Astro Novalite (Dandy's World) & Manny (Funhouse)</sub>
 
+<sub><a href="https://github.com/hoobae">hoobae</a> is Pony Town's Mizi (Alien Stage)</sub>
+
 <sub><a href="https://github.com/H0RR0RF4RT">H0RR0RF4RT</a> is Pony Town's Martian (Fact Attack Adventures)</sub>
 
 <sub><a href="https://github.com/ianishuser">ianishuser</a> is Pony Town's Avery</sub>
