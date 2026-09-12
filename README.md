@@ -31,7 +31,15 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/BlG-SHOT">blg-shot</a> is Pony Town's Spamton (Deltarune)</sub>
 
+<sub><a href="https://github.com/bannysuperman">bannysuperman</a> is Pony Town's Clark Kent</sub>
+
 <sub><a href="https://github.com/bunchoffriends">bunchoffriends</a> is Pony Town's Anthony Po</sub>
+
+<sub><a href="https://github.com/burningsins">burningsins</a> is Pony Town's Hawks (My Hero Academia)</sub>
+
+<sub><a href="https://github.com/Chemicalshot">Chemicalshot</a> is Pony Town's Wemmbu</sub>
+
+<sub><a href="https://github.com/CherrieJam">CherrieJam</a> is Pony Town's Metal Sonic</sub>
 
 <sub><a href="https://github.com/cherryflavoredfoam">cherryflavoredfoam</a> is Pony Town's Lyla (Spider verse)</sub>
 
@@ -102,6 +110,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/tragicburn">tragicburn</a> is Pony Town's Captain Red (Among Us)</sub>
 
 <sub><a href="https://github.com/twottimey">twottimey</a> is Pony Town's Two Time (Forsaken)</sub>
+
+<sub><a href="https://github.com/VarenV">VarenV</a> is Pony Town's SCP 049</sub>
 
 <sub><a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> is Pony Town's Cole Brookstone (Ninjago)</sub>
 
