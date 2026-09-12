@@ -12,14 +12,18 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub> , <sub><a href="https://github.com/pupfies">pupfies</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub> , <sub><a href="https://github.com/pupfies">pupfies</a></sub> , <sub><a href="https://github.com/kiwiconiccc">kiwiconiccc</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub> , <sub><a href="https://github.com/Mayumixx">Mayumixx</a></sub>
 
+---
 
-${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a></sub>
+${\color{#9f28ec}\textsf{𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒖𝒔𝒕𝒐𝒎 𝑻𝒊𝒕𝒍𝒆𝒔:}}$
 
+<sub>${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$</sub> <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a </sub> , <sub><a href="https://github.com/Theothebiggerbird">Theothebiggerbird</a></sub>
+
+<sub>${\color{#7800c6}\textsf{𝑩𝒊𝒈𝒈𝒆𝒔𝒕 𝒃𝒊𝒓𝒅:}}$</sub> <sub><a href="https://github.com/Theothebiggerbird">Theothebiggerbird</a></sub>
 
 ---
 
@@ -32,6 +36,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/BlG-SHOT">blg-shot</a> is Pony Town's Spamton (Deltarune)</sub>
 
 <sub><a href="https://github.com/bannysuperman">bannysuperman</a> is Pony Town's Clark Kent</sub>
+
+<sub><a href="https://github.com/BEASTGUEST">BEASTGUEST</a> is Pony Town's John Doe</sub>
 
 <sub><a href="https://github.com/bunchoffriends">bunchoffriends</a> is Pony Town's Anthony Po</sub>
 
@@ -47,7 +53,13 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/Corintheuss">Corintheuss</a> is Pony Town's Corinthian</sub>
 
+<sub><a href="https://github.com/CosmeticStar">CosmeticStar</a> is Pony Town's Mommy Mearest(FNF) & no.1 Alice Wagner Kin(TAALFS)</sub>
+
+<sub><a href="https://github.com/coypisopilled">coypisopilled</a> is Pony Town's Coy Piso</sub>
+
 <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a> is Pony Town's D3rlord3</sub>
+
+<sub><a href="https://github.com/disorderlyfashion">disorderlyfashion</a> is Pony Town's Raphael (TMNT 2012)</sub>
 
 <sub><a href="https://github.com/doomed2suffer">doomed2suffer</a> is Pony Town's 1x1x1x1 & Sylas (Something Doesn't Belong Here)</sub>
 
@@ -79,6 +91,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/kikiooru">kikiooru</a> is Pony Town's Kalim al-Asim (Disney Twisted Wonderland)</sub>
 
+<sub><a href="https://github.com/kiwiconiccc">kiwiconiccc</a> is Pony Town's biggest Dot Barrett fan</sub>
+
 <sub><a href="https://github.com/KUJOHS">KUJOHS</a> is Pony Town's Jolynecujoh & Rangiku Matsumoto</sub>
 
 <sub><a href="https://github.com/kyle-broflovski33">kyle-broflovski33</a> is Pony Town's Kyle Broflovski (South Park)</sub>
@@ -88,6 +102,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a> is Pony Town's SCP 035</sub>
 
 <sub><a href="https://github.com/Mayumixx">Mayumixx</a> is Pony Town's Tifa Lockhart</sub>
+
+<sub><a href="https://github.com/mirrorgem">mirrorgem</a> is Pony Town's Lottie Matthews</sub>
 
 <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a> is Pony Town's Vee version 1</sub>
 
@@ -106,6 +122,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/SweetTenshi">SweetTenshi</a> is Pony Town's Yoisaki Kanade (PJSK)</sub>
 
 <sub><a href="https://github.com/sxphyrin">sxphyrin</a> is Pony Town's Riddle Rosehearts (Twisted Wonderland)</sub>
+
+<sub><a href="https://github.com/tamonsbside">tamonsbside</a> is Pony Town's Rukawa Kaede (Slam Dunk)</sub>
 
 <sub><a href="https://github.com/TheSpoiledRiches">TheSpoiledRiches</a> is Pony Town's Adam Murray (The Mandela Catalogue)</sub>
 
