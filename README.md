@@ -137,7 +137,7 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
 
-<sub><a href="https://github.com/Supreme-Angel">Supreme-Angel</a> is Pony Town's biggest Gabriel (Ultrakill)</sub>
+<sub><a href="https://github.com/Supreme-Angel">Supreme-Angel</a> is Pony Town's biggest Gabriel kin (Ultrakill)</sub>
 
 <sub><a href="https://github.com/SweetTenshi">SweetTenshi</a> is Pony Town's Yoisaki Kanade (PJSK)</sub>
 
