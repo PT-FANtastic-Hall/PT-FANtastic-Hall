@@ -12,7 +12,7 @@
 ---
 
 ${\color{#52677d}\textsf{𝑷𝒓𝒆𝒕𝒕𝒊𝒆𝒔𝒕 𝒔𝒌𝒊𝒏𝒔:}}$ <sub><a href="https://github.com/eternxal">eternxal</a></sub> , 
-<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub> , <sub><a href="https://github.com/pupfies">pupfies</a></sub> , <sub><a href="https://github.com/kiwiconiccc">kiwiconiccc</a></sub>
+<sub><a href="https://github.com/tragicburn">tragicburn</a></sub> , <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a></sub> , <sub><a href="https://github.com/MacNCheese0990">MacNCheese0990</a></sub> , <sub><a href="https://github.com/d3rlord3kisser">d3rlord3kisser</a></sub> , <sub><a href="https://github.com/sxphyrin">sxphyrin</a></sub> , <sub><a href="https://github.com/Doxdxo">Doxdxo</a></sub> , <sub><a href="https://github.com/pupfies">pupfies</a></sub> , <sub><a href="https://github.com/kiwiconiccc">kiwiconiccc</a></sub> , <sub><a href="https://github.com/Supreme-Angel">Supreme-Angel</a></sub>
 
 
 ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓𝒔:}}$ <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a></sub> , <sub><a href="https://github.com/Mayumixx">Mayumixx</a></sub>
@@ -21,13 +21,17 @@ ${\color{#ac5f8b}\textsf{𝑲𝒊𝒏𝒅𝒆𝒔𝒕 𝒑𝒍𝒂𝒚𝒆𝒓�
 
 ${\color{#9f28ec}\textsf{𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒖𝒔𝒕𝒐𝒎 𝑻𝒊𝒕𝒍𝒆𝒔:}}$
 
-<sub>${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$</sub> <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a </sub> , <sub><a href="https://github.com/Theothebiggerbird">Theothebiggerbird</a></sub>
+<sub>${\color{#7800c6}\textsf{𝑪+𝑯𝒆𝒓𝒔:}}$</sub> <sub><a href="https://github.com/Xaplastcore">Xaplastcore</a></sub> , <sub><a href="https://github.com/dr-vanta">dr-vanta</a> </sub> , <sub><a href="https://github.com/Theothebiggerbird">Theothebiggerbird</a></sub>
 
 <sub>${\color{#7800c6}\textsf{𝑩𝒊𝒈𝒈𝒆𝒔𝒕 𝒃𝒊𝒓𝒅:}}$</sub> <sub><a href="https://github.com/Theothebiggerbird">Theothebiggerbird</a></sub>
 
 ---
 
 ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝑭𝒂𝒏 or 𝑪𝒐𝒔𝒑𝒍𝒂𝒚}}$ ${\color{#aeaeae}\textsf{[𝑨𝒍𝒑𝒉𝒂𝒃𝒆𝒕𝒊𝒄𝒂𝒍 𝑶𝒓𝒅𝒆𝒓]}}$
+
+<sub><a href="https://github.com/42-MILES">42-MILES</a> is Pony Town's Miles Morales</sub>
+
+<sub><a href="https://github.com/5orrows">5orrows</a> is Pony Town's Ichigo Kurosaki (Bleach)</sub>
 
 <sub><a href="https://github.com/AcxerSonnellino">AcxerSonnellino</a> is Pony Town's Guest 1337 (Forsaken/The Last Guest)</sub>
 
@@ -48,6 +52,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/CherrieJam">CherrieJam</a> is Pony Town's Metal Sonic</sub>
 
 <sub><a href="https://github.com/cherryflavoredfoam">cherryflavoredfoam</a> is Pony Town's Lyla (Spider verse)</sub>
+
+<sub><a href="https://github.com/chipwhisp">chipwhisp</a> is Pony Town's Spiderman-Noir</sub>
 
 <sub><a href="https://github.com/CoolGuyzz">CoolGuyzz</a> is Pony Town's Colonel König</sub>
 
@@ -72,6 +78,8 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 <sub><a href="https://github.com/eversleeping-town">eversleeping-town</a> is Pony Town's Ada Wong (Resident Evil)</sub>
 
 <sub><a href="https://github.com/FeferiIRLXDD">FeferiIRLXDD</a> is Pony Town's Kenny Mccormick (South Park) & Estella Havisham (HellPark)</sub>
+
+<sub><a href="https://github.com/freakedoutboy">freakedoutboy</a> is Pony Town's 2012 Michelangelo</sub>
 
 <sub><a href="https://github.com/Gatita-here">Gatita-here</a> is Pony Town's Grox MC</sub>
 
@@ -105,9 +113,15 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/mirrorgem">mirrorgem</a> is Pony Town's Lottie Matthews</sub>
 
+<sub><a href="https://github.com/monachgrievings">monachgrievings</a> is Pony Town's Sonic the Hedgehog</sub>
+
 <sub><a href="https://github.com/nataliescatorccio">nataliescatorccio</a> is Pony Town's Natalie Scatorccio</sub>
 
 <sub><a href="https://github.com/neverwanted2dance">neverwanted2dance</a> is Pony Town's Vee version 1</sub>
+
+<sub><a href="https://github.com/OHBUNNYBUNNY">OHBUNNYBUNNY</a> is Pony Town's Old Secretary (aha) & Kokomi Teruhashi (tdlosk)</sub>
+
+<sub><a href="https://github.com/out-llaw">out-llaw</a> is Pony Town's Jaden Yuki</sub>
 
 <sub><a href="https://github.com/PH4NT0MHIVE">PH4NT0MHIVE</a> is Pony Town's Ciel & Idia Shroud</sub>
 
@@ -117,15 +131,21 @@ ${\color{#dedede}\textsf{𝑺𝒑𝒆𝒄𝒊𝒇𝒊𝒄 𝑪𝒉𝒂𝒓𝒂�
 
 <sub><a href="https://github.com/R1SING-SUN">R1SING-SUN</a> is Pony Town's Parrotx2 (Unstable SMP)</sub>
 
+<sub><a href="https://github.com/RE0-MIKAGE">RE0-MIKAGE</a> is Pony Town's Reo Mikage</sub>
+
 <sub><a href="https://github.com/Robiiwithlotsofis">Robiiwithlotsofis</a> is Pony Town's Jeppy (Doctor Nowhere)</sub>
 
 <sub><a href="https://github.com/SideCharacter-001">SideCharacter-001</a> is Pony Town's Cosmo the Pastry (Dandy's World)</sub>
+
+<sub><a href="https://github.com/Supreme-Angel">Supreme-Angel</a> is Pony Town's biggest Gabriel (Ultrakill)</sub>
 
 <sub><a href="https://github.com/SweetTenshi">SweetTenshi</a> is Pony Town's Yoisaki Kanade (PJSK)</sub>
 
 <sub><a href="https://github.com/sxphyrin">sxphyrin</a> is Pony Town's Riddle Rosehearts (Twisted Wonderland)</sub>
 
 <sub><a href="https://github.com/tamonsbside">tamonsbside</a> is Pony Town's Rukawa Kaede (Slam Dunk)</sub>
+
+<sub><a href="https://github.com/thedarklrd">thedarklrd</a> is Pony Town's Green (AvA/AvM)</sub>
 
 <sub><a href="https://github.com/TheSpoiledRiches">TheSpoiledRiches</a> is Pony Town's Adam Murray (The Mandela Catalogue)</sub>
 
